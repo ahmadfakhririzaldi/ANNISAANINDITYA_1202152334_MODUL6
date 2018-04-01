@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "482536690855",
+    "firebase_url": "https://modul6-afif.firebaseio.com",
+    "project_id": "modul6-afif",
+    "storage_bucket": "modul6-afif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482536690855:android:bd197d6a16218486",
+        "android_client_info": {
+          "package_name": "android.dapoerkami.com.modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482536690855-td7f4oschqd8pujvgm4mof9ohqaje1jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeqAxXhnNvCxjxRn7_Vqvi6c39lHPPWzQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
